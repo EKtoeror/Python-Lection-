@@ -11,7 +11,7 @@
 """
 интерполяция строк  
 print(f"{x}{y}{z}")
-print("{}{}{}@".format(x,y,z))
+print("{}{}{}".format(x,y,z))
 """
 
 """
